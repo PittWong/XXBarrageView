@@ -11,7 +11,7 @@
 @interface XXBarrageModel : NSObject
 
 @property (nonatomic, assign) CGFloat x;
-@property (nonatomic, assign) CGFloat y;
+@property (nonatomic, assign) CGFloat y;//test
 @property (nonatomic, assign) CGFloat width;
 @property (nonatomic, copy) NSString *title;
 @property (nonatomic, strong) UIColor *textColor;
